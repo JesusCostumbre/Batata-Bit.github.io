@@ -162,6 +162,34 @@ main{
     position:relative;
     right:44px;
 }
+.currency-table-container .icon-image-one{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: 10px;
+    vertical-align:sub ;
+}
+.currency-table-container .icon-image-two{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: 5px;
+    vertical-align:sub ;
+}
+.currency-table-container .icon-image-three{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: 16px;
+    vertical-align:sub ;
+}
+.currency-table-container .icon-image-four{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: 8px;
+    vertical-align:sub ;
+}
 .main-comisions-table .comisions-table-title{
     margin-bottom: 15px;
     font-size: 1.8rem;
